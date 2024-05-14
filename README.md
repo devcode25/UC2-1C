@@ -9,10 +9,13 @@
 - Coloque como título o seu nome completo. Ex: # SEU NOME
 - insira os links dos trabalhos e atividades que você desenvolveu e participou durante esta UC.
 
-# Tereza Oliveira
+# Ana Melo Mendonça
 
 Atividade 1: Trello 
-- [Grupo](link)
+- Introdução ao Trello [individual](https://trello.com/invite/b/mJGJl1ce/ATTI07d4ff3fe58684e178dac9320dfce9c5F8EA1712/tarefas)
+- Análise SWOT [Ana Melo, Arthur Vinicius, Vinicius Santiago, Luiz Miguel](https://trello.com/invite/b/3dmfpsRr/ATTI22a39a63e87754b136d57b282f02d1fc351CCBCD/analise-swot)
+- Agenda de Entregas [Ana Melo, Raquel Melo, Paulinna Marcela, João Sales, Arthur Henrique](https://trello.com/invite/b/eNy3YtxT/ATTIbc59786df21b41a3af9f18d75236446101D019D2/agenda-de-entregas)
+- Linguagens de Programação (SWIFT) [Ana Melo, Raquel Melo, Paulinna Marcela, João Sales, Pedro Ferraz, Arthur Henrique](https://www.canva.com/design/DAGE1QmbvAk/JbHnHo2CwcOJXQ7Ftqz6_A/edit?utm_content=DAGE1QmbvAk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
