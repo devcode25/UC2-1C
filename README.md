@@ -9,10 +9,13 @@
 - Coloque como título o seu nome completo. Ex: # SEU NOME
 - insira os links dos trabalhos e atividades que você desenvolveu e participou durante esta UC.
 
-# Tereza Oliveira
+# Arthur Edson
 
 Atividade 1: Trello 
-- [Grupo](link)
+- [Grupo](https://trello.com/invite/b/QsYz0AdR/ATTI3c013e22a546db2a4d1b694dc437f2918615EFD1/analise-swot)[SWOT]
+- [Individual](https://trello.com/invite/b/pIrH5mCU/ATTI0dcf49f3ecbe9bb069ce60bee334c7ad1670BC64/ds-atividade)[Metas]
 
-
+Atividade 2: Slides e Apresentações
+- [Grupo](https://www.canva.com/design/DAGEjciwvGs/vSqc2OGltcH_2QQ1LCnF5w/edit)[linguagemdaprogramação]
+- [Grupo](https://www.canva.com/design/DAGCfu53EUQ/iGvyMp8bZ0VjiEA1WbP8Gg/edit?utm_content=DAGCfu53EUQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)[problematica]
 
