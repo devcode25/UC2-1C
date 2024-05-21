@@ -19,3 +19,8 @@ Atividade 2: Slides e Apresentações
 - [Grupo](https://www.canva.com/design/DAGEjciwvGs/vSqc2OGltcH_2QQ1LCnF5w/edit)[linguagemdaprogramação]
 - [Grupo](https://www.canva.com/design/DAGCfu53EUQ/iGvyMp8bZ0VjiEA1WbP8Gg/edit?utm_content=DAGCfu53EUQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)[problematica]
 
+Atividade do Miro 
+- [Individual](https://miro.com/welcomeonboard/NElvVUV1SHNhcWYxY0htR1d5UG5EQmN1QVcycUo4MDFUTkhIcDc3TzBTZXBsUHF5Wjlvak53ZzBQaHRublUzWHwzNDU4NzY0NTg4OTk2OTExOTI5fDI=?share_link_id=345341898445)
+
+  Atividade do Docs
+- [Individual](https://docs.google.com/document/d/1BN6IG76xCXDg7Vn6kYJRJLQpPgn3bCJLc6HfoMiLAyU/edit?usp=sharing)
