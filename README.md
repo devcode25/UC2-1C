@@ -24,3 +24,6 @@ Atividade do Miro
 
   Atividade do Docs
 - [Individual](https://docs.google.com/document/d/1BN6IG76xCXDg7Vn6kYJRJLQpPgn3bCJLc6HfoMiLAyU/edit?usp=sharing)
+
+Atividade das planilhas
+-[Grupo](https://docs.google.com/spreadsheets/d/1eF6GGqn86gFGvM90fFvcrCrwRT_076nbx3V6U5znLvA/edit?usp=sharing)
