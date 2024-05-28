@@ -18,3 +18,5 @@ Atividade 1: Trello
 - Linguagens de Programação (SWIFT) [Ana Melo, Raquel Melo, Paulinna Marcela, João Sales, Pedro Ferraz, Arthur Henrique](https://www.canva.com/design/DAGE1QmbvAk/JbHnHo2CwcOJXQ7Ftqz6_A/edit?utm_content=DAGE1QmbvAk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Business Model Canvas [individual](https://trello.com/invite/b/JMRDLkmW/ATTIdc17973ad42ab3e71766dcd9a70dea4f28883CE8/sorveteria-de-bairro)
 - Emprego dos Sonhos [individual](https://docs.google.com/document/d/1NNF899yLBD3xuY1iKSkKJEt16XisQelmwDoEGqry9pM/edit?usp=sharing)
+- Gráfico de Gantt [Festival de Jazz] [Ana Melo, Raquel Melo, Pedro ferraz, Arthur henrique](https://docs.google.com/spreadsheets/d/1BkRlFUNYxtm0_etAoy6CSfFopweW-jAJF9gQ-o8Ts9c/edit?usp=sharing)
+- 
