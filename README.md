@@ -26,3 +26,5 @@ Atividade 4: Linguagem de programação C++
 Atividade 5: Emprego dos sonhos
 [Individual](https://docs.google.com/document/d/18im0CplWcp7JjNGEXwTCtw5jmXYzoQGqmYf3UhhsAKA/edit?usp=sharing)
 
+Atividade 6: Gráfico de Gantt
+[Grupo](https://docs.google.com/spreadsheets/d/148QR5g7DXmHpUPl6nhiU750a_o4-CqZHsmG_ZNHKyd0/edit?usp=sharing)
